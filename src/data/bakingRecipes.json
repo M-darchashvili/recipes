@@ -1,0 +1,206 @@
+{
+  "bakingRecipes": [
+    {
+      "id": "recipe_1",
+      "name": "Fluffy Pancakes",
+      "description": "Looking for a fluffy pancake recipe? This one is just right! Topped with syrup or strawberries and whipped cream, they are impossible to resist.",
+      "image": "/img/baking-recipes/fluffy_pancakes.webp",
+      "additionalInfo": {
+        "prepTime": 10,
+        "cookTime": 10,
+        "extraTime:": 5,
+        "yield": 8
+      },
+      "ingredients": [
+        {
+          "id": "ingredient_1_A",
+          "amount": 0.75,
+          "unit": "cup",
+          "name": "milk"
+        },
+        {
+          "id": "ingredient_1_B",
+          "amount": 2,
+          "unit": "tablespoons",
+          "name": "white vinegar"
+        },
+        {
+          "id": "ingredient_1_C",
+          "amount": 1,
+          "unit": "cup",
+          "name": "all-purpose flour"
+        },
+        {
+          "id": "ingredient_1_D",
+          "amount": 2,
+          "unit": "tablespoons",
+          "name": "white sugar"
+        },
+        {
+          "id": "ingredient_1_E",
+          "amount": 1,
+          "unit": "teaspoon",
+          "name": "baking powder"
+        },
+        {
+          "id": "ingredient_1_F",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "name": "baking soda"
+        },
+        {
+          "id": "ingredient_1_G",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "name": "salt"
+        },
+        {
+          "id": "ingredient_1_H",
+          "amount": 1,
+          "unit": "",
+          "name": "egg"
+        },
+        {
+          "id": "ingredient_1_I",
+          "amount": 2,
+          "unit": "tablespoons",
+          "name": "butter, melted"
+        },
+        {
+          "id": "ingredient_1_J",
+          "amount": "",
+          "unit": "",
+          "name": "cooking spray"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "instruction_1_A",
+          "text": "Combine milk with vinegar in a medium bowl and set aside for 5 minutes to \"sour\"."
+        },
+        {
+          "id": "instruction_1_B",
+          "text": "Combine flour, sugar, baking powder, baking soda, and salt in a large mixing bowl. Whisk egg and butter into \"soured\" milk. Pour the flour mixture into the milk mixture and whisk until lumps are gone."
+        },
+        {
+          "id": "instruction_1_C",
+          "text": "Heat a large skillet over medium heat, and coat it with cooking spray. Pour 1/4 cupfuls of batter onto the skillet, and cook until bubbles form and the edges are dry, about 2 to 3 minutes. Flip with a spatula, and cook until browned on the other side. Repeat with remaining batter."
+        }
+      ]
+    },
+    {
+      "id": "recipe_2",
+      "name": "Fluffy Japanese Pancakes",
+      "description": "Fluffy Japanese pancakes. These impressively tall pancakes are great with maple syrup! You will need enough 3 1/2-inch ring molds to fill your frying pan for this recipe.",
+      "image": "/img/baking-recipes/fluffy_japanese_pancakes.webp",
+      "additionalInfo": {
+        "prepTime": 10,
+        "cookTime": 15,
+        "extraTime": 0,
+        "yield": 8
+      },
+      "ingredients": [
+        {
+          "id": "ingredient_2_A",
+          "amount": 2,
+          "unit": "",
+          "name": "eggs, separated"
+        },
+        {
+          "id": "ingredient_2_B",
+          "amount": 1.5,
+          "unit": "cups",
+          "name": "all-purpose flour"
+        },
+        {
+          "id": "ingredient_2_C",
+          "amount": 0.25,
+          "unit": "cup",
+          "name": "white sugar"
+        },
+        {
+          "id": "ingredient_2_D",
+          "amount": 2,
+          "unit": "teaspoons",
+          "name": "baking powder"
+        },
+        {
+          "id": "ingredient_2_E",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "name": "baking soda"
+        },
+        {
+          "id": "ingredient_2_F",
+          "amount": 1.25,
+          "unit": "cups",
+          "name": "buttermilk"
+        },
+        {
+          "id": "ingredient_2_G",
+          "amount": 0.25,
+          "unit": "melted",
+          "name": "butter, melted"
+        },
+        {
+          "id": "ingredient_2_H",
+          "amount": 0.5,
+          "unit": "teaspoon",
+          "name": "vanilla extract"
+        }
+      ],
+      "instructions": [
+        {
+          "id": "instruction_2_A",
+          "text": "Beat egg whites in a glass, metal, or ceramic bowl until stiff peaks form."
+        },
+        {
+          "id": "instruction_2_B",
+          "text": "Butter enough 3 1/2-inch ring molds to fill your frying pan. Place molds in the pan over low heat. Cover."
+        },
+        {
+          "id": "instruction_2_C",
+          "text": "Mix flour, sugar, baking powder, and baking soda in a bowl."
+        },
+        {
+          "id": "instruction_2_D",
+          "text": "Combine buttermilk, egg yolks, butter, and vanilla extract in a separate bowl. Add the flour mixture and stir until batter is fairly smooth."
+        },
+        {
+          "id": "instruction_2_E",
+          "text": "Fold egg whites into the batter until combined. Small bits of egg whites still showing is ok."
+        },
+        {
+          "id": "instruction_2_F",
+          "text": "Pour about 1/2 cup of batter into each mold and cover the pan. Cook until bubbles start forming at the top, about 5 minutes. Flip pancakes in their molds and cook until set, 3 to 4 minutes more."
+        }
+      ]
+    },
+    {
+      "id": "recipe_3",
+      "name": "Apple Turnovers",
+      "description": "These classic apple turnovers have a delicious homemade filling that's baked inside flaky puff pastry triangles. If you do not wish to make the glaze, you can brush beaten egg over the top of each turnover, and sprinkle with white sugar before baking.",
+      "image": "/img/baking-recipes/apple_turnovers.webp",
+      "additionalInfo": {
+        "prepTime": 30,
+        "cookTime": 25,
+        "extraTime": 0,
+        "yield": 8
+      },
+      "ingredients": [
+        {
+          "id": "ingredient_3_A",
+          "amount": 0,
+          "unit": "",
+          "name": ""
+        }
+      ],
+      "instructions": [
+        {
+          "id": "instruction_3_A",
+          "text": ""
+        }
+      ]
+    }
+  ]
+}
