@@ -1,14 +1,7 @@
 import React from "react";
-import BakingRecipesSection from "./BakingRecipesSection";
-import Hero from "./Hero";
 
 function App() {
-  return (
-    <main>
-      <Hero />
-      <BakingRecipesSection />
-    </main>
-  );
+  return <h1>Hello world!</h1>;
 }
 
 export default App;
